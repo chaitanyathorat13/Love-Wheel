@@ -18,18 +18,18 @@ const febHolidays = [
     "And trust me I dont want anyone else",
     "There's no one better than you❤️",
     "You're the best baby!!",
-    "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
-    "Wow!! Time flies, we've already been together for a month",
+    "Youuuuu are only mineee",
+    "Onlyy Mineee",
     "There's some hardships,",
     "but we overcame most of them",
     "and it made me realised how important you are in my life❤️",
     "This for you,",
-    "To l'amour",
-    "ek mo l'amour",
-    "fr 2 liv pomme d'amour🤣❤️",
-    "But anyways, Happy 1 month my sweet little girlfriend(wife🤭)",
+    "I Love Youu Soo Mucchh...",
+    "Sonnaaa Mazzz",
+    "Yeddd mazz🤣❤️",
+    "Maza Babbyyyy",
     "You're the love of my life,",
-    "I Love You So much❤️"
+    "I Love You So Soooo much,"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
